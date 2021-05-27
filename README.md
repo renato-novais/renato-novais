@@ -33,4 +33,8 @@ Me chamo Renato e sou um estudante de desenvolvimento web focado em Java.
     <img src = "https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt = "renato.novais.silva@hotmail.com" />
   </a> 
 </p>
+	
+[![Linguagens mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=renato-novais&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![Estatísticas do Github do Renato](https://github-readme-stats.vercel.app/api?username=renato-novais&show_icons=true&theme=gruvbox)
 
