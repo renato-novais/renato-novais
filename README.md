@@ -2,8 +2,8 @@
 
 Me chamo Renato e sou um estudante de desenvolvimento web focado em Java.
 
-- 📚 Atualmente estou participando do bootcamp desenvolvedor full stack Java júnior da <a href="https://brazil.generation.org" target="_blank">Generation</a>.
-- 🔭 Atualmente estou aprendendo inglês com <a href="https://www.udemy.com/course/ingles-a-fantastica-formula-para-ser-fluente/" target="_blank">Vinícius Braga<a/> e <a href="https://www.udemy.com/course/cursodeinglesbasico25/" target="_blank">Joshua Smith<a/>.
+- :computer: Atualmente estou participando do bootcamp desenvolvedor full stack Java júnior da <a href="https://brazil.generation.org" target="_blank">Generation</a>.
+- :earth_americas: Atualmente estou aprendendo inglês com <a href="https://www.udemy.com/course/ingles-a-fantastica-formula-para-ser-fluente/" target="_blank">Vinícius Braga<a/> e <a href="https://www.udemy.com/course/cursodeinglesbasico25/" target="_blank">Joshua Smith<a/>.
 
 ### Linguagens e Ferramentas
 <p> 
