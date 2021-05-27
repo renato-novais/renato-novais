@@ -1,11 +1,13 @@
-<h1 align="center">Olá, Mundo!👋</h1>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=renato-novais" alt="renato-novais" /></p>
+
+<h1 align="center">Olá, Mundo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 Me chamo Renato e sou um estudante de desenvolvimento web focado em Java.
 
 - :computer: Atualmente estou participando do bootcamp desenvolvedor full stack Java júnior da <a href="https://brazil.generation.org" target="_blank">Generation</a>.
 - :earth_americas: Atualmente estou aprendendo inglês com <a href="https://www.udemy.com/course/ingles-a-fantastica-formula-para-ser-fluente/" target="_blank">Vinícius Braga<a/> e <a href="https://www.udemy.com/course/cursodeinglesbasico25/" target="_blank">Joshua Smith<a/>.
 
-### Linguagens e Ferramentas
+## Linguagens e Ferramentas
 <p> 
   <img src="http://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" /> 
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse" />
@@ -20,7 +22,7 @@ Me chamo Renato e sou um estudante de desenvolvimento web focado em Java.
   <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />  
 </p>
 	
-### Contato
+## Contato
 
 <p align = "left">
     <a href="https://www.linkedin.com/in/renato-novais-716a72144/" target="_blank">
@@ -33,8 +35,8 @@ Me chamo Renato e sou um estudante de desenvolvimento web focado em Java.
     <img src = "https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt = "renato.novais.silva@hotmail.com" />
   </a> 
 </p>
-	
-[![Linguagens mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=renato-novais&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+## Status GitHub 
 
 ![Estatísticas do Github do Renato](https://github-readme-stats.vercel.app/api?username=renato-novais&show_icons=true&theme=gruvbox)
-
+[![Linguagens mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=renato-novais&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
