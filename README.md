@@ -4,7 +4,7 @@
 
 ## Sobre mim
 
-- 💻 Atualmente, sou aluno do bootcamp desenvolvedor full stack Java júnior da <a href="https://brazil.generation.org" target="_blank">Generation Brasil</a>.
+- 💻 Atualmente, sou aluno do bootcamp desenvolvedor java júnior da <a href="https://brazil.generation.org" target="_blank">Generation Brasil</a>.
 - 👨🏽‍🎓 Sou formado em engenharia de produção na <a href="https://www.cruzeirodosul.edu.br/" target="_blank">Cruzeiro do Sul</a>.
 - 🌎 Aprendo inglês com <a href="https://www.udemy.com/course/ingles-a-fantastica-formula-para-ser-fluente/" target="_blank">Vinícius Braga<a/> e <a href="https://www.udemy.com/course/cursodeinglesbasico25/" target="_blank">Joshua Smith<a/>.
 - 🎸 Musicista e ex-guitarrista em uma banda.
