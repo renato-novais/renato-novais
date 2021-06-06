@@ -28,7 +28,7 @@
 ## Contato
 
 <p align = "left">
-    <a href="https://www.linkedin.com/in/renato-novais-716a72144/" target="_blank">
+    <a href="https://www.linkedin.com/in/renatonovais/" target="_blank">
     <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt = "renato-novais" />
   </a>
   <a href="https://api.whatsapp.com/send?phone=5511992014316" target="_blank">
