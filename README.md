@@ -1,6 +1,6 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=renato-novais" alt="renato-novais" /></p>
 
-<h1 align="center">Olá, Mundo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<h1 align="center">Olá, Mundo! Eu sou o Renato Novais! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 ## Sobre mim
 
@@ -8,6 +8,7 @@
 - 👨🏽‍🎓 Sou formado em engenharia de produção na <a href="https://www.cruzeirodosul.edu.br/" target="_blank">Cruzeiro do Sul</a>.
 - 🌎 Aprendo inglês com <a href="https://www.udemy.com/course/ingles-a-fantastica-formula-para-ser-fluente/" target="_blank">Vinícius Braga<a/> e <a href="https://www.udemy.com/course/cursodeinglesbasico25/" target="_blank">Joshua Smith<a/>.
 - 🎸 Musicista e ex-guitarrista em uma banda.
+
 
 ## Linguagens e Ferramentas
 <p> 
@@ -45,3 +46,5 @@
 
 ![Estatísticas do Github do Renato](https://github-readme-stats.vercel.app/api?username=renato-novais&show_icons=true&theme=gruvbox)
 [![Linguagens mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=renato-novais&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+	
+![Snake animation](https://github.com/renato-novais/renato-novais/blob/output/github-contribution-grid-snake.svg)
