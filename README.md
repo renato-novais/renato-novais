@@ -7,7 +7,6 @@
 - 💻 Recentemente, concluí o bootcamp desenvolvedor java júnior da <a href="https://brazil.generation.org" target="_blank">Generation Brasil</a>.
 - 👨🏽‍🎓 Sou formado em engenharia de produção na <a href="https://www.cruzeirodosul.edu.br/" target="_blank">Cruzeiro do Sul</a>.
 - 🌎 Aprendo inglês com <a href="https://www.udemy.com/course/cursodeinglesbasico25/" target="_blank">Joshua Smith<a/>.
-- 🎸 Musicista e ex-guitarrista em uma banda.
 
 
 ## Linguagens e Ferramentas
