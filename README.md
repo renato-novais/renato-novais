@@ -1,6 +1,6 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=renato-novais" alt="renato-novais" /></p>
 
-<h1 align="center">Olá! Sejam bem vindos! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<h1 align="center">Bem vindos! Eu sou o Renato! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 ## Sobre mim
 
