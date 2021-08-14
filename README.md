@@ -9,7 +9,7 @@
 - 🌎 Aprendo inglês com <a href="https://www.udemy.com/course/cursodeinglesbasico25/" target="_blank">Joshua Smith<a/>.
 
 
-## Linguagens e Ferramentas
+## Linguagens e Ferramentas 
 <p> 
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" /> 
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
