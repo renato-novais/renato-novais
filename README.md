@@ -42,8 +42,5 @@
 ## Estatísticas
 
 ![Estatísticas do Github do Renato](https://github-readme-stats.vercel.app/api?username=renato-novais&show_icons=true&theme=gruvbox)
-[![Linguagens mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=renato-novais&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-	
-##
-	
+![Linguagens mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=renato-novais&layout=compact&theme=gruvbox)	
 ![Snake animation](https://github.com/renato-novais/renato-novais/blob/output/github-contribution-grid-snake.svg)
