@@ -5,7 +5,7 @@
 ## Sobre mim
 
 - 💻 Atualmente, faço voluntariado em front-end para organizações de e-sports.
-- 👨🏽‍🎓 Recentemente, concluí o bootcamp desenvolvedor web java júnior da <a href="https://brazil.generation.org" target="_blank">Generation Brasil</a>.
+- 🎯 Recentemente, concluí o bootcamp desenvolvedor web java júnior da <a href="https://brazil.generation.org" target="_blank">Generation Brasil</a>.
 - 👨🏽‍🎓 Sou formado em engenharia na <a href="https://www.cruzeirodosul.edu.br/" target="_blank">Cruzeiro do Sul</a>.
 - 🌎 Aprendo inglês com <a href="https://www.udemy.com/course/cursodeinglesbasico25/" target="_blank">Joshua Smith<a/>.
 
