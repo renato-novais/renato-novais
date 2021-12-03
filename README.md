@@ -4,9 +4,9 @@
 
 ## Sobre mim
 
-- 💻 Atualmente, faço voluntariado em front-end para organizações de e-sports.
-- 🎯 Recentemente, concluí o bootcamp desenvolvedor web java júnior da <a href="https://brazil.generation.org" target="_blank">Generation Brasil</a>.
-- 👨🏽‍🎓 Sou formado em engenharia na <a href="https://www.cruzeirodosul.edu.br/" target="_blank">Cruzeiro do Sul</a>.
+- 💻 Atualmente, atuo como Desenvolvedor Full Stack Júnior na <a href="https://www.topaz.com.uy/" target="_blank">Topaz</a>.
+- 🎯 Cursando pós-graduação em Tecnologia Java na <a href="http://www.utfpr.edu.br/" target="_blank">Universidade Tecnológica Federal do Paraná</a>.
+- 👨🏽‍🎓 Sou formado em Engenharia de Produção na <a href="https://www.cruzeirodosul.edu.br/" target="_blank">Cruzeiro do Sul</a> e também em Desenvolvimento Web Java na <a href="https://brazil.generation.org" target="_blank">Generation Brasil</a>.
 - 🌎 Aprendo inglês com <a href="https://www.udemy.com/course/cursodeinglesbasico25/" target="_blank">Joshua Smith<a/>.
 
 
@@ -22,11 +22,13 @@
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />	
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse" />
+  <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" />
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode" />
-  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
 </p>
 	
 ## Contato
