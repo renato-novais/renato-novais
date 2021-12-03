@@ -6,7 +6,7 @@
 
 - 💻 Atualmente, atuo como Desenvolvedor Full Stack Júnior na <a href="https://www.topaz.com.uy/" target="_blank">Topaz</a>.
 - 🎯 Cursando pós-graduação em Tecnologia Java na <a href="http://www.utfpr.edu.br/" target="_blank">Universidade Tecnológica Federal do Paraná</a>.
-- 👨🏽‍🎓 Sou formado em Engenharia de Produção na <a href="https://www.cruzeirodosul.edu.br/" target="_blank">Cruzeiro do Sul</a> e em Desenvolvimento Web Java na <a href="https://brazil.generation.org" target="_blank">Generation Brasil</a>.
+- 👨🏽‍🎓 Sou formado em Desenvolvimento Web Java na <a href="https://brazil.generation.org" target="_blank">Generation Brasil</a> e em Engenharia de Produção na <a href="https://www.cruzeirodosul.edu.br/" target="_blank">Cruzeiro do Sul</a>.
 - 🌎 Aprendo inglês com <a href="https://www.udemy.com/course/cursodeinglesbasico25/" target="_blank">Joshua Smith<a/>.
 
 
