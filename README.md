@@ -4,7 +4,6 @@
 #### 💻 Front End | Angular 
 #### 🎓 Generation Brasil & Universidade Tecnológica Federal do Paraná
 ####  🏢 Topaz
-#### 📍 São Paulo
 
  <div>
   <a href="https://github.com/renato-novais">
