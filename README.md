@@ -11,7 +11,7 @@
 
 ### Principais tecnologias
 
-[![Tecnologias](https://skillicons.dev/icons?i=java,spring,go,postgres,mysql,redis,git,github,docker,jenkis)](https://skillicons.dev)
+[![Tecnologias](https://skillicons.dev/icons?i=java,spring,go,postgres,mysql,redis,git,github,docker,jenkins,idea,vscode,html,css,js,typescript,angular,react,postman,notion)](https://skillicons.dev)
 
 ### Estudando atualmente
 
