@@ -1,30 +1,29 @@
-# RENATO NOVAIS - Software Developer
+![header](https://capsule-render.vercel.app/api?color=1F6FEB&height=120&section=header&type=waving)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1%2C++sou+o+Renato+Novais;Software+Engineer)](https://git.io/typing-svg)
 
-#### 💻 Back End | Java 
-#### 💻 Front End | Angular 
-#### 🎓 Generation Brasil & Universidade Tecnológica Federal do Paraná
-####  🏢 Topaz
+<a href="https://git.io/typing-svg">
+    <img src="./assets/about_renato.gif" alt="Sobre Renato"/>
+</a>
 
- <div>
-  <a href="https://github.com/renato-novais">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renato-novais&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renato-novais&layout=compact&langs_count=7&theme=algolia"/>
+<div>
+    <img width="700" height="300" src="https://github.com/user-attachments/assets/65897c2b-80a2-4347-8259-900e96bfe112" alt="Terminal"/>
 </div>
-  <div style="display: inline_block"><br>
-    <img align="center" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-    <img align="center" height="30" width="30" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg">
-    <img align="center" height="30" width="30" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg">
-    <img align="center" height="30" width="30" src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png">
-    <img align="center" height="30" width="30" src="https://angular.io/assets/images/logos/angular/angular.svg">
-    <img align="center" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-  
-  ##
-  
-  <div>  	
-  <a href = "renato.novais.silva@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/renatonovais/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-</div>
+
+### Principais tecnologias
+
+[![Tecnologias](https://skillicons.dev/icons?i=java,spring,go,postgres,mysql,redis,git,github,docker,jenkis)](https://skillicons.dev)
+
+### Estudando atualmente
+
+[![Estudando](https://skillicons.dev/icons?i=aws,kafka,kubernetes)](https://skillicons.dev)
+
+### Vamos nos conectar!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Renato_Novais-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renatonovais/)
+
+### Recrutador(a)?
+
+> [!IMPORTANT]
+> [Acesse meu currículo](https://docs.google.com/document/d/1bXlGdY96PXBS_2noDUbfc8SYZSbTGt83Ttw0a4zD9Ug/edit?usp=sharing)
+
+![footer](https://capsule-render.vercel.app/api?color=1F6FEB&height=120&section=footer&type=waving)
