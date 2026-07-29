@@ -6,7 +6,7 @@
 </a>
 
 <div>
-    <img width="700" height="300" src="https://github.com/user-attachments/assets/65897c2b-80a2-4347-8259-900e96bfe112" alt="Terminal"/>
+    <img width="700" height="300" src="https://github.com/user-attachments/assets/ba1bb5d3-7ef9-43e9-9960-bea12d47522b" alt="Terminal"/>
 </div>
 
 ### Principais tecnologias
